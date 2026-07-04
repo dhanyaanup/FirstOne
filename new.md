@@ -1,2 +1,2 @@
-# FirstOne
-This is My first Repository
+print("python")
+
